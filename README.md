@@ -1,10 +1,10 @@
-# 🔐 Secure Terraform AWS Infrastructure
+#  Secure Terraform AWS Infrastructure
 
 This project provisions a secure, production-ready AWS environment using Terraform with a remote S3 backend, DynamoDB state locking, IAM least privilege, and GitHub Actions CI/CD.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **VPC** with public/private subnets
 - **EC2 instance** (Amazon Linux 2 or 2023)
